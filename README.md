@@ -5,7 +5,7 @@ Sou estudante de Analise e desenvolvimento de Sistemas, estou procurando uma pri
 ## Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-loterio-1b4aa32b6/)
-
+##
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GaLoterio&show_icons=true&theme=radical)
 
 ## Estudando
