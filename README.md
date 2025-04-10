@@ -1,5 +1,4 @@
 ### 👋 Hi there! I'm Gabriel
-## 
 # 
 
 🎓 I'm currently pursuing a degree in **Systems Analysis and Development** — 3rd semester.  
