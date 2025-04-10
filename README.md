@@ -1,6 +1,9 @@
-### Olá sou Gabriel Loterio 
+### 👋 Hi there! I'm Gabriel
 ## 
-Sou estudante de Analise e desenvolvimento de Sistemas, estou procurando uma primeira oportunidade de estágio.
+# 
+
+🎓 I'm currently pursuing a degree in **Systems Analysis and Development** — 3rd semester.  
+💼 I work as a **Support and Infrastructure Analyst**, always eager to learn and take on new challenges in the tech world.  
 
 ## Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -16,6 +19,10 @@ Sou estudante de Analise e desenvolvimento de Sistemas, estou procurando uma pri
  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " />
  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
+ <img align="center" alt="Kotlyn" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
+ <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+ 
 
 
 </div>
