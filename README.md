@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Gabriel
 # 
 
-🎓 I'm currently pursuing a degree in **Systems Analysis and Development** — 3rd semester.  
+🎓 I'm currently pursuing a degree in **Systems Analysis and Development** — 4rd semester.  
 💼 I work as a **Support and Infrastructure Analyst**, always eager to learn and take on new challenges in the tech world.  
 
 ## Contato
