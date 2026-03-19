@@ -2,7 +2,9 @@
 # 
 
 🎓 Currently pursuing a degree in Systems Analysis and Development (5th semester).
+
 💼 Automation & Integrations Analyst — I design and maintain automated workflows that connect business operations with technology, turning manual processes into scalable, trackable systems across events, contracts and internal tools.
+
 Stack:
 Node.js TypeScript PostgreSQL Make.com OpenAI API Monday.com Jira Google Workspace
 Currently building:
