@@ -1,16 +1,17 @@
 ### 👋 Hi there! I'm Gabriel
 # 
 
-🎓 Currently pursuing a degree in Systems Analysis and Development (4th semester).
-💼 Working as an Automation & Integrations Analyst at Omelete Company — I build and maintain automated workflows that connect business operations with technology, reducing manual work and scaling processes across events, contracts and internal tools.
-My day-to-day stack:
+🎓 Currently pursuing a degree in Systems Analysis and Development (5th semester).
+💼 Automation & Integrations Analyst — I design and maintain automated workflows that connect business operations with technology, turning manual processes into scalable, trackable systems across events, contracts and internal tools.
+Stack:
 Node.js TypeScript PostgreSQL Make.com OpenAI API Monday.com Jira Google Workspace
 Currently building:
 
 A WhatsApp CRM bot using OpenAI Agents SDK + Evolution API + PostgreSQL
-An internal IT asset responsibility term generator with in-browser PDF generation (jsPDF)
+An internal web app for automated PDF document generation (jsPDF + Web Crypto API)
 
-🌱 Always learning — focused on AI integrations, process automation and scalable systems. 
+🌱 Passionate about AI integrations, process automation and building things that actually solve real problems.
+📬 Open to new opportunities — feel free to reach out! 
 
 ## Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
