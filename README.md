@@ -1,31 +1,25 @@
-### 👋 Hi there! I'm Gabriel
-# 
+👋 Hi there! I'm Gabriel
 
 🎓 Currently pursuing a degree in Systems Analysis and Development (5th semester).
 
 💼 Automation & Integrations Analyst — I design and maintain automated workflows that connect business operations with technology, turning manual processes into scalable, trackable systems across events, contracts and internal tools.
 
-Stack:
-Node.js TypeScript PostgreSQL Make.com OpenAI API Monday.com Jira Google Workspace
-Currently building:
+🛠️ Stack:
+Node.js · TypeScript · PostgreSQL · Java · Spring Boot · Docker
+Make.com · OpenAI API · Monday.com · Jira · Google Workspace
 
-A WhatsApp CRM bot using OpenAI Agents SDK + Evolution API + PostgreSQL
-An internal web app for automated PDF document generation (jsPDF + Web Crypto API)
+🔨 Currently building:
+- 🏦 FinBank — A REST API banking system built with Java 21 + Spring Boot + Spring Security + Docker
+- 🤖 A WhatsApp CRM bot using OpenAI Agents SDK + Evolution API + PostgreSQL
+- 📄 An internal web app for automated PDF document generation (jsPDF + Web Crypto API)
 
-🌱 Passionate about AI integrations, process automation and building things that actually solve real problems.
-📬 Open to new opportunities — feel free to reach out! 
+🌱 Passionate about AI integrations, back-end development, process automation and building things that actually solve real problems.
+
+📬 Feel free to reach out!
 
 ## Contato
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-loterio-1b4aa32b6/)
-##
-
-  <div>
-  <a href="https://beacons.ai/seunomeaqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaLoterio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaLoterio&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
 
 
 ## Estudando
